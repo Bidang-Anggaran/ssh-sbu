@@ -80,15 +80,7 @@
     "KODE REKENING": "5.1.02.01.01.0052",
     "KATEGORI": "SBU"
   },
-  {
-    "KODE KELOMPOK BARANG": "8.1.02.01.01.0053.00001",
-    "URAIAN BARANG": "Nasi Astakona",
-    "SPESIFIKASI": "Nasi lengkap dengan lauk pauk diatas talam kuningan bundar bertingkat yang di setiap tingkatannya menyajikan jenis nasi dan menu berbeda",
-    "SATUAN": "Buah",
-    "HARGA SATUAN 2025": "5.000.000",
-    "KODE REKENING": "5.1.02.01.01.0053",
-    "KATEGORI": "SBU"
-  },
+
   {
     "KODE KELOMPOK BARANG": "8.1.02.01.01.0053.00004",
     "URAIAN BARANG": "Belanja Makanan dan Minuman Jamuan Tamu Pimpinan",
@@ -98,15 +90,7 @@
     "KODE REKENING": "5.1.02.01.01.0053",
     "KATEGORI": "SBU"
   },
-  {
-    "KODE KELOMPOK BARANG": "8.1.02.01.01.0053.00011",
-    "URAIAN BARANG": "Nasi Astakona",
-    "SPESIFIKASI": "-",
-    "SATUAN": "Buah",
-    "HARGA SATUAN 2025": "10.000.000",
-    "KODE REKENING": "5.1.02.01.01.0053",
-    "KATEGORI": "SBU"
-  },
+
   {
     "KODE KELOMPOK BARANG": "8.1.02.01.01.0056.00001",
     "URAIAN BARANG": "Pemberian Makanan Tambahan (PMT ) di Posyandu",
