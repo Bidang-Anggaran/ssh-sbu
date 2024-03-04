@@ -22,7 +22,7 @@ const Pagination = ({ totalItems }) => {
   };
 
   return (
-    <div className="w-full py-4 flex justify-end items-center text-xs">
+    <div className="w-full py-4 flex justify-end items-center text-xs ">
       <p>Data per halaman : </p>
       <div className="mx-2">
         <select
@@ -35,7 +35,6 @@ const Pagination = ({ totalItems }) => {
           <option value="50">50</option>
           <option value="100">100</option>
           <option value={totalItems}>Tampilkan Semua</option>
-
         </select>
       </div>
       <p>

@@ -3,9 +3,7 @@ import { useKode } from "../context/BelanjaContext";
 import Pagination from "./Pagination";
 
 const SBUList = () => {
-  const { startIndex, endIndex } = useKode();
-
-  const { searchInput } = useKode();
+  const { startIndex, endIndex, searchInput } = useKode();
 
   const filteredData =
     searchInput !== ""

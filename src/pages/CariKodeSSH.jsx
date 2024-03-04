@@ -9,7 +9,7 @@ const CariKodeBelanja = () => {
           DATA UMUM SSH
         </h1>
       </div>
-      <section className="shadow-xl">
+      <section className="shadow-xl rounded-lg">
         <SearchBar kodeMinW={"min-w-32 sm:min-w-[8.5rem]"} />
         <SSHList />
       </section>

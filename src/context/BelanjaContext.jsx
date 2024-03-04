@@ -32,6 +32,7 @@ const KodeProvider = ({ children }) => {
   const searchInputHandler = (input) => {
     setSearchInput(input);
     setCurrentPage(() => 1);
+    handleItemsPerPage(20);
   };
 
   const handleItemsPerPage = (e) => {
@@ -50,7 +51,7 @@ const KodeProvider = ({ children }) => {
         handlePageNumber,
         currentPage,
         itemsPerPage,
-        handleItemsPerPage
+        handleItemsPerPage,
       }}
     >
       {children}
