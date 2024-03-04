@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div>init</div>;
+  return <div>init commit</div>;
 }
 
 export default App;
