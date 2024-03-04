@@ -41,7 +41,7 @@ const SSHList = () => {
           </div>
         ) : null}
         {currentData.map((e) => (
-          <div key={crypto.randomUUID()} className="flex overflow-scroll">
+          <div key={crypto.randomUUID()} className="flex">
             <div className="flex-[1] min-w-32 sm:min-w-[8.5rem] border-x-2 border-slate-300">
               <h2 className="font-bold text-xs sm:text-sm p-2">
                 {e["KODE KELOMPOK BARANG"]}
