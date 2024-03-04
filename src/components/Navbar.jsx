@@ -15,7 +15,7 @@ const Navbar = ({ children }) => {
               searchInputHandler("");
             }}
             className={({ isActive }) =>
-              `font-bold ${isActive ? "underline" : ""}`
+              `font-bold text-lg ${isActive ? "underline" : ""}`
             }
           >
             SSH
@@ -26,7 +26,7 @@ const Navbar = ({ children }) => {
               searchInputHandler("");
             }}
             className={({ isActive }) =>
-              `font-bold ${isActive ? "underline" : ""}`
+              `font-bold text-lg ${isActive ? "underline" : ""}`
             }
           >
             SBU
