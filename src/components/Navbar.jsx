@@ -1,40 +1,36 @@
 import { Link } from "react-router-dom";
 import { useBelanja } from "../context/BelanjaContext";
+import { NavLink } from "react-router-dom";
 
 const Navbar = ({ children }) => {
-  const { handlePageNumber } = useBelanja();
+  const { searchInputHandler } = useBelanja();
   return (
     <>
-      <header className="bg-slate-900 backdrop-blur-sm w-full py-4 px-8 shadow-md flex justify-between">
-        <div className="text-xl font-bold text-slate-200">LOGO</div>
+      <header className="bg-slate-900 backdrop-blur-sm w-full py-4 px-8 shadow-md flex justify-center">
+        {/* <div className="text-xl font-bold text-slate-200">LOGO</div> */}
         <div className="flex space-x-8 text-slate-200">
-          <Link
+          <NavLink
             to={"/"}
             onClick={() => {
-              handlePageNumber(1);
+              searchInputHandler("");
             }}
-            className="flex flex-col items-center cursor-pointer"
-          >
-            <p>Home</p>
-            <div className="bg-slate-200 w-4 h-1 rounded-lg"></div>
-          </Link>
-          <Link
-            to={"/"}
-            onClick={() => {
-              handlePageNumber(1);
-            }}
+            className={({ isActive }) =>
+              `font-bold ${isActive ? "underline" : ""}`
+            }
           >
             SSH
-          </Link>
-          <Link
-            to={"/SSB"}
+          </NavLink>
+          <NavLink
+            to={"/SBU"}
             onClick={() => {
-              handlePageNumber(1);
+              searchInputHandler("");
             }}
+            className={({ isActive }) =>
+              `font-bold ${isActive ? "underline" : ""}`
+            }
           >
-            SSB
-          </Link>
-          <p>FAQ</p>
+            SBU
+          </NavLink>
         </div>
       </header>
       {children}

@@ -10,7 +10,7 @@ const CariKodeBelanja = () => {
         </h1>
       </div>
       <section className="shadow-xl">
-        <SearchBar smKodeMinW={"sm:min-w-[8.5rem]"} />
+        <SearchBar kodeMinW={"min-w-32 sm:min-w-[8.5rem]"} />
         <SSHList />
       </section>
     </main>

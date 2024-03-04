@@ -10,7 +10,7 @@ function App() {
       <Navbar>
         <Routes>
           <Route path="/" element={<CariKodeBelanja />} />
-          <Route path="/SSB" element={<CariKodeAsset />} />
+          <Route path="/SBU" element={<CariKodeAsset />} />
           {/* <div className="h-24"></div> */}
         </Routes>
       </Navbar>

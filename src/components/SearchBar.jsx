@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { useBelanja } from "../context/BelanjaContext";
 
-const SearchBar = ({smKodeMinW}) => {
+const SearchBar = ({kodeMinW}) => {
   const searchRef = useRef(null);
   const { searchInputHandler } = useBelanja();
   return (
@@ -31,7 +31,7 @@ const SearchBar = ({smKodeMinW}) => {
         </div>
 
         <div className="flex text-center border-y-2 mt-4 border-slate-300">
-          <h2 className={`font-bold flex-[1] text-sm py-2 min-w-32 ${smKodeMinW} border-x-2 border-slate-300`}>
+          <h2 className={`font-bold flex-[1] text-xs sm:text-sm py-2 ${kodeMinW} border-x-2 border-slate-300`}>
             Kode Kelompok Barang
           </h2>
           <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
@@ -52,7 +52,7 @@ const SearchBar = ({smKodeMinW}) => {
           {/* <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
             TKDN
           </h2> */}
-          <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
+          <h2 className="flex-[1] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
             Kategori
           </h2>
         </div>
