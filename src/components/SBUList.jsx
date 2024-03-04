@@ -1,12 +1,11 @@
 import SBU from "../json/SBU.json";
-import ReadMore from "./ReadMore";
-import { useBelanja } from "../context/BelanjaContext";
+import { useKode } from "../context/BelanjaContext";
 import Pagination from "./Pagination";
 
 const SBUList = () => {
-  const { startIndex, endIndex } = useBelanja();
+  const { startIndex, endIndex } = useKode();
 
-  const { searchInput } = useBelanja();
+  const { searchInput } = useKode();
 
   const filteredData =
     searchInput !== ""
@@ -18,20 +17,6 @@ const SBUList = () => {
       : SBU;
 
   const currentData = filteredData.slice(startIndex, endIndex);
-
-  const formatString = (input) => {
-    const strInput = `${input}`;
-    const parts = [
-      strInput.slice(0, 1),
-      strInput.slice(1, 2),
-      strInput.slice(2, 4),
-      strInput.slice(4, 6),
-      strInput.slice(6, 8),
-      strInput.slice(8),
-    ];
-    const formattedString = parts.join(".").replace(/\.*$/, "");
-    return formattedString;
-  };
 
   return (
     <>

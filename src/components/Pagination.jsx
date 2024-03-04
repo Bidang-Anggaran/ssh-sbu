@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useBelanja } from "../context/BelanjaContext";
+import { useKode } from "../context/BelanjaContext";
 
 const Pagination = ({ totalItems }) => {
   const {
@@ -9,7 +9,7 @@ const Pagination = ({ totalItems }) => {
     startIndex,
     endIndex,
     handleItemsPerPage,
-  } = useBelanja();
+  } = useKode();
   const totalPages = Math.ceil(totalItems / itemsPerPage);
 
   const handlePageChange = (newPage) => {

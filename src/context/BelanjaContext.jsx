@@ -12,7 +12,7 @@ const BelanjaContext = createContext({
   handleItemsPerPage: () => {},
 });
 
-const BelanjaProvider = ({ children }) => {
+const KodeProvider = ({ children }) => {
   const [searchInput, setSearchInput] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(20);
@@ -58,12 +58,12 @@ const BelanjaProvider = ({ children }) => {
   );
 };
 
-export const useBelanja = () => {
+export const useKode = () => {
   const context = useContext(BelanjaContext);
   if (!context) {
-    throw new Error("useBelanja must be used within a BelanjaProvider");
+    throw new Error("useKode must be used within a KodeProvider");
   }
   return context;
 };
 
-export default BelanjaProvider;
+export default KodeProvider;

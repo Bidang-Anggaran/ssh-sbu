@@ -1,9 +1,9 @@
 import { useRef } from "react";
-import { useBelanja } from "../context/BelanjaContext";
+import { useKode } from "../context/BelanjaContext";
 
 const SearchBar = ({kodeMinW}) => {
   const searchRef = useRef(null);
-  const { searchInputHandler } = useBelanja();
+  const { searchInputHandler } = useKode();
   return (
     <>
       <form

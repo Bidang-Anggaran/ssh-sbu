@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom";
-import { useBelanja } from "../context/BelanjaContext";
+
+import { useKode } from "../context/BelanjaContext";
 import { NavLink } from "react-router-dom";
 
 const Navbar = ({ children }) => {
-  const { searchInputHandler } = useBelanja();
+  const { searchInputHandler } = useKode();
   return (
     <>
       <header className="bg-slate-900 backdrop-blur-sm w-full py-4 px-8 shadow-md flex justify-center">

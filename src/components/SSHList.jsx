@@ -1,11 +1,9 @@
 import SSH from "../json/SSH.json";
-import { useBelanja } from "../context/BelanjaContext";
+import { useKode } from "../context/BelanjaContext";
 import Pagination from "./Pagination";
 
 const SSHList = () => {
-  const { startIndex, endIndex } = useBelanja();
-
-  const { searchInput } = useBelanja();
+  const { startIndex, endIndex,searchInput } = useKode();
 
   const filteredData =
     searchInput !== ""
@@ -18,19 +16,6 @@ const SSHList = () => {
 
   const currentData = filteredData.slice(startIndex, endIndex);
 
-  const formatString = (input) => {
-    const strInput = `${input}`;
-    const parts = [
-      strInput.slice(0, 1),
-      strInput.slice(1, 2),
-      strInput.slice(2, 4),
-      strInput.slice(4, 6),
-      strInput.slice(6, 8),
-      strInput.slice(8),
-    ];
-    const formattedString = parts.join(".").replace(/\.*$/, "");
-    return formattedString;
-  };
 
   return (
       <div className="divide-y-2 flex flex-col justify-between divide-slate-300  bg-slate-200 min-w-[412px] rounded-lg">
