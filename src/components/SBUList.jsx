@@ -44,7 +44,7 @@ const SBUList = () => {
         ) : null}
         {currentData.map((e) => (
           <div key={crypto.randomUUID()} className="flex">
-            <div className="flex-[2] min-w-48 border-x-2 border-slate-300">
+            <div className="flex-[2] min-w-48 max-w-48 border-x-2 border-slate-300">
               <h2 className="font-bold text-xs md:text-sm p-2">
                 {e["KODE KELOMPOK BARANG"]}
               </h2>
