@@ -67,7 +67,7 @@
     "URAIAN BARANG": "Rapat Koordinasi Tingkat Kepala Daerah/Setara (Forkopimda)",
     "SPESIFIKASI": "Makan",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 110,
+    "HARGA SATUAN 2025": "110.000",
     "KODE REKENING": "5.1.02.01.01.0052",
     "KATEGORI": "SBU"
   },
@@ -76,7 +76,7 @@
     "URAIAN BARANG": "Rapat Koordinasi Tingkat Kepala Daerah/Setara (Forkopimda)",
     "SPESIFIKASI": "Kudapan/Snack",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 49,
+    "HARGA SATUAN 2025": "49.000",
     "KODE REKENING": "5.1.02.01.01.0052",
     "KATEGORI": "SBU"
   },
@@ -94,7 +94,7 @@
     "URAIAN BARANG": "Belanja Makanan dan Minuman Jamuan Tamu Pimpinan",
     "SPESIFIKASI": "Paket di Restoran / Hotel / Rumah Makan",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.01.01.0053",
     "KATEGORI": "SBU"
   },
@@ -112,7 +112,7 @@
     "URAIAN BARANG": "Pemberian Makanan Tambahan (PMT ) di Posyandu",
     "SPESIFIKASI": "PMT Posyandu",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.01.01.0056",
     "KATEGORI": "SBU"
   },
@@ -121,7 +121,7 @@
     "URAIAN BARANG": "Pemberian Makanan Tambahan (PMT)",
     "SPESIFIKASI": "PMT Kecamatan Selama 30 Hari",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 32.5,
+    "HARGA SATUAN 2025": "32.500",
     "KODE REKENING": "5.1.02.01.01.0039, 5.1.02.01.01.0056",
     "KATEGORI": "SBU"
   },
@@ -157,7 +157,7 @@
     "URAIAN BARANG": "Belanja Pakaian Dinas KDH dan WKDH",
     "SPESIFIKASI": "Belanja Pakaian KORPRI",
     "SATUAN": "Stel",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.01.01.0059",
     "KATEGORI": "SBU"
   },
@@ -265,7 +265,7 @@
     "URAIAN BARANG": "Batik / Sasirangan / Pakaian Khusus Hari - hari Tertentu",
     "SPESIFIKASI": "-",
     "SATUAN": "Stel",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.01.01.0075",
     "KATEGORI": "SBU"
   },
@@ -301,7 +301,7 @@
     "URAIAN BARANG": "Honorarium Narasumber/Pembahas",
     "SPESIFIKASI": "Pejabat Eselon II/ yang disetarakan",
     "SATUAN": "Orang / Jam",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0003, 5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -310,7 +310,7 @@
     "URAIAN BARANG": "Honorarium Narasumber/Pembahas",
     "SPESIFIKASI": "Pejabat Eselon III ke bawah/ yang disetarakan",
     "SATUAN": "Orang / Jam",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0003,  5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -319,7 +319,7 @@
     "URAIAN BARANG": "Honorarium Moderator",
     "SPESIFIKASI": "Moderator",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0003,  5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -337,7 +337,7 @@
     "URAIAN BARANG": "Honorarium Pembawa Acara",
     "SPESIFIKASI": "Pembawa Acara",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0003,  5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -346,7 +346,7 @@
     "URAIAN BARANG": "Honorarium Pembawa Acara",
     "SPESIFIKASI": "Pembawa Acara Profesional",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -355,7 +355,7 @@
     "URAIAN BARANG": "Narasumber/Instruktur",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 140,
+    "HARGA SATUAN 2025": "140.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -364,7 +364,7 @@
     "URAIAN BARANG": "Pembaca Doa",
     "SPESIFIKASI": "--",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0003,",
     "KATEGORI": "SBU"
   },
@@ -373,7 +373,7 @@
     "URAIAN BARANG": "Honorarium Panitia",
     "SPESIFIKASI": "Penanggung jawab",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 450,
+    "HARGA SATUAN 2025": "450.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -382,7 +382,7 @@
     "URAIAN BARANG": "Honorarium Panitia",
     "SPESIFIKASI": "Ketua/ Wakil Ketua",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -391,7 +391,7 @@
     "URAIAN BARANG": "Honorarium Panitia",
     "SPESIFIKASI": "Sekretaris dan/atau Anggota",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -409,7 +409,7 @@
     "URAIAN BARANG": "Honorarium Narasumber/Pembahas",
     "SPESIFIKASI": "Pejabat Eselon III ke bawah Lingkup Kementerian/ yang disetarakan",
     "SATUAN": "Orang / Jam",
-    "HARGA SATUAN 2025": 900,
+    "HARGA SATUAN 2025": "900.000",
     "KODE REKENING": "5.1.02.02.01.0003",
     "KATEGORI": "SBU"
   },
@@ -445,7 +445,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Walikota",
     "SPESIFIKASI": "Wakil Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 850,
+    "HARGA SATUAN 2025": "850.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -454,7 +454,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Walikota",
     "SPESIFIKASI": "Sekretaris",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -463,7 +463,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Walikota",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -472,7 +472,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Sekretaris Daerah",
     "SPESIFIKASI": "Penanggung Jawab",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 700,
+    "HARGA SATUAN 2025": "700.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -481,7 +481,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Sekretaris Daerah",
     "SPESIFIKASI": "Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -490,7 +490,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Sekretaris Daerah",
     "SPESIFIKASI": "Wakil Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -499,7 +499,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Sekretaris Daerah",
     "SPESIFIKASI": "Sekretaris",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -508,7 +508,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan Yang ditetapkan oleh Sekretaris Daerah",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -517,7 +517,7 @@
     "URAIAN BARANG": "Honorarium Sekretariat Tim Pelaksana Kegiatan yang ditetapkan Oleh Walikota/Sekretaris Daerah",
     "SPESIFIKASI": "Ketua/Wakil Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -526,7 +526,7 @@
     "URAIAN BARANG": "Honorarium Sekretariat Tim Pelaksana Kegiatan yang ditetapkan Oleh Walikota/Sekretaris Daerah",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -535,7 +535,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Pengarah",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -544,7 +544,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Penanggung Jawab",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 450,
+    "HARGA SATUAN 2025": "450.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -553,7 +553,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -562,7 +562,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Wakil Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -571,7 +571,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Sekretaris",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -580,7 +580,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -589,7 +589,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -607,7 +607,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Penanggung Jawab",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 850,
+    "HARGA SATUAN 2025": "850.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -625,7 +625,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -634,7 +634,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Wakil Ketua",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -643,7 +643,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Sekretaris",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 550,
+    "HARGA SATUAN 2025": "550.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -652,7 +652,7 @@
     "URAIAN BARANG": "Honorarium Tim Pelaksana Kegiatan",
     "SPESIFIKASI": "Anggota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -661,7 +661,7 @@
     "URAIAN BARANG": "Honorarium Panitia Pelaksana Kegiatan Panitia/Tim Baperjakat (Pembina)",
     "SPESIFIKASI": "Wali Kota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 900,
+    "HARGA SATUAN 2025": "900.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -670,7 +670,7 @@
     "URAIAN BARANG": "Honorarium Panitia Pelaksana Kegiatan Panitia/Tim Baperjakat (Pengarah)",
     "SPESIFIKASI": "Wakil Wali Kota",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 800,
+    "HARGA SATUAN 2025": "800.000",
     "KODE REKENING": "5.1.02.02.01.0004",
     "KATEGORI": "SBU"
   },
@@ -697,7 +697,7 @@
     "URAIAN BARANG": "Belanja Honorarium pemberi keterangan ahli, saksi ahli dan beracara",
     "SPESIFIKASI": "Saksi Fakta",
     "SATUAN": "Per Orang",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.02.01.0005",
     "KATEGORI": "SBU"
   },
@@ -706,7 +706,7 @@
     "URAIAN BARANG": "Honorarium Rohaniwan",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0007",
     "KATEGORI": "SBU"
   },
@@ -715,7 +715,7 @@
     "URAIAN BARANG": "Honorarium Tim Pengelola Teknologi Informasi/ Pengelola Website",
     "SPESIFIKASI": "Web Admin",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.02.01.0008",
     "KATEGORI": "SBU"
   },
@@ -724,7 +724,7 @@
     "URAIAN BARANG": "Honorarium Tim Teknis Diklat",
     "SPESIFIKASI": "Penghubung",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -733,7 +733,7 @@
     "URAIAN BARANG": "Honorarium Tim Teknis Diklat",
     "SPESIFIKASI": "Pengawas Evaluasi Akademik",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -742,7 +742,7 @@
     "URAIAN BARANG": "Honorarium Tim Teknis Diklat",
     "SPESIFIKASI": "Pemeriksa Hasil Evaluasi Akademik",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -751,7 +751,7 @@
     "URAIAN BARANG": "Honorarium Tim Teknis Diklat",
     "SPESIFIKASI": "Pengumpul dan Perekap Data",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -760,7 +760,7 @@
     "URAIAN BARANG": "Honorarium  Tenaga Pendidikan Dan Pelatihan",
     "SPESIFIKASI": "Fasilitator",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -769,7 +769,7 @@
     "URAIAN BARANG": "Honorarium  Tenaga Pendidikan Dan Pelatihan",
     "SPESIFIKASI": "Pendampim Pembuatan Jurnal/Summary",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -778,7 +778,7 @@
     "URAIAN BARANG": "Honorarium  Tenaga Pendidikan Dan Pelatihan",
     "SPESIFIKASI": "Ceramah Kebijakan Pengembangan Kompetensi",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 800,
+    "HARGA SATUAN 2025": "800.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -787,7 +787,7 @@
     "URAIAN BARANG": "Honorarium  Tenaga Pendidikan Dan Pelatihan",
     "SPESIFIKASI": "Overview Kebijakan Penyelenggaraan Orientasi",
     "SATUAN": "Orang / Jam / Pelajaran",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -796,7 +796,7 @@
     "URAIAN BARANG": "Honorarium Tim Teknis Diklat",
     "SPESIFIKASI": "Pendamping Kelas",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0011",
     "KATEGORI": "SBU"
   },
@@ -832,7 +832,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pendidikan Tenaga Pendidik dan Kependidikan",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 850,
+    "HARGA SATUAN 2025": "850.000",
     "KODE REKENING": "5.1.02.02.01.0013",
     "KATEGORI": "SBU"
   },
@@ -841,7 +841,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pendidikan Tenaga Pendidik dan Kependidikan",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 700,
+    "HARGA SATUAN 2025": "700.000",
     "KODE REKENING": "5.1.02.02.01.0013",
     "KATEGORI": "SBU"
   },
@@ -877,7 +877,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pendidikan Tenaga Pendidik dan Kependidikan",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0013",
     "KATEGORI": "SBU"
   },
@@ -886,7 +886,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pendidikan Tenaga Pendidik dan Kependidikan",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0013",
     "KATEGORI": "SBU"
   },
@@ -895,7 +895,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesehatan",
     "SPESIFIKASI": "Jasa Medis Operasi Pria (MOP)",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0014",
     "KATEGORI": "SBU"
   },
@@ -904,7 +904,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesehatan",
     "SPESIFIKASI": "Jasa Medis Pemasangan IUD",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.02.01.0014",
     "KATEGORI": "SBU"
   },
@@ -913,7 +913,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesehatan",
     "SPESIFIKASI": "Jasa Medis Pemasangan Implant",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.02.01.0014",
     "KATEGORI": "SBU"
   },
@@ -931,7 +931,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
     "SPESIFIKASI": "Upah Kepala Mandor",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 170,
+    "HARGA SATUAN 2025": "170.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -940,7 +940,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
     "SPESIFIKASI": "Upah Pekerja/Buruh Lepas",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 140,
+    "HARGA SATUAN 2025": "140.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -949,7 +949,7 @@
     "URAIAN BARANG": "Honorarium Pekerja Lepas Non PNS",
     "SPESIFIKASI": "Pekerja /Buruh/Pekerja Kasar",
     "SATUAN": "Hari",
-    "HARGA SATUAN 2025": 209.331,
+    "HARGA SATUAN 2025": "209.331",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -958,7 +958,7 @@
     "URAIAN BARANG": "Honorarium Pekerja Lepas Non PNS",
     "SPESIFIKASI": "Mandor",
     "SATUAN": "Hari",
-    "HARGA SATUAN 2025": 230.902,
+    "HARGA SATUAN 2025": "230.902",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -967,7 +967,7 @@
     "URAIAN BARANG": "Honorarium Pekerja Lepas Non PNS",
     "SPESIFIKASI": "Operator",
     "SATUAN": "Hari",
-    "HARGA SATUAN 2025": 343.856,
+    "HARGA SATUAN 2025": "343.856",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -976,7 +976,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -985,7 +985,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -994,7 +994,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -1012,7 +1012,7 @@
     "URAIAN BARANG": "Jasa Pengemasan Beras CPP",
     "SPESIFIKASI": "Upah Non Borongan",
     "SATUAN": "Kg",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -1021,7 +1021,7 @@
     "URAIAN BARANG": "Upah Non Borongan",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 190,
+    "HARGA SATUAN 2025": "190.000",
     "KODE REKENING": "5.1.02.02.01.0016",
     "KATEGORI": "SBU"
   },
@@ -1048,7 +1048,7 @@
     "URAIAN BARANG": "Jasa Tenaga Penanggulangan Bencana (TAGANA)",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 700,
+    "HARGA SATUAN 2025": "700.000",
     "KODE REKENING": "5.1.02.02.01.0019, 5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1057,7 +1057,7 @@
     "URAIAN BARANG": "Honorarium Supervisor SLRT Kecamatan",
     "SPESIFIKASI": "Supervisor SLRT Kecamatan",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0020",
     "KATEGORI": "SBU"
   },
@@ -1066,7 +1066,7 @@
     "URAIAN BARANG": "Petugas Pendamping Sosial (RS-RUTILAHU)",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 700,
+    "HARGA SATUAN 2025": "700.000",
     "KODE REKENING": "5.1.02.02.01.0020, 5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1147,7 +1147,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesenian dan Kebudayaan",
     "SPESIFIKASI": "Peraga Pakaian Adat / Tradisional",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0025",
     "KATEGORI": "SBU"
   },
@@ -1219,7 +1219,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesenian dan Kebudayaan",
     "SPESIFIKASI": "Jasa Talent Nanang & Galuh / Putera & Puteri Sasirangan / Model Fashion / Foto/Video Model",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0025",
     "KATEGORI": "SBU"
   },
@@ -1228,7 +1228,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kesenian dan Kebudayaan",
     "SPESIFIKASI": "Jasa Tenaga Pembuat Teks Sejarah, Pembaca Sambutan Unsur Pemuda dan/atau Pembaca Sambutan Veteran",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0025",
     "KATEGORI": "SBU"
   },
@@ -1237,7 +1237,7 @@
     "URAIAN BARANG": "Honorarium Petugas Korsik",
     "SPESIFIKASI": "Petugas Korsik Kota Banjarmasin",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.02.01.0025",
     "KATEGORI": "SBU"
   },
@@ -1246,7 +1246,7 @@
     "URAIAN BARANG": "Honorarium Pengarah/Pelatih Korsik",
     "SPESIFIKASI": "Pengarah/Pelatih Korsik Kota Banjarmasin",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0025",
     "KATEGORI": "SBU"
   },
@@ -1327,7 +1327,7 @@
     "URAIAN BARANG": "Jasa Pengumpulan Data Pengurangan Sampah",
     "SPESIFIKASI": "Jasa Pengumpulan Data Pengurangan Sampah Kota Banjarmasin",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0026",
     "KATEGORI": "SBU"
   },
@@ -1363,7 +1363,7 @@
     "URAIAN BARANG": "Jasa penyampaian SPPT PBB untuk RT",
     "SPESIFIKASI": "",
     "SATUAN": "Lembar",
-    "HARGA SATUAN 2025": 7.5,
+    "HARGA SATUAN 2025": "7.500",
     "KODE REKENING": "5.1.02.02.01.0026",
     "KATEGORI": "SBU"
   },
@@ -1381,7 +1381,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "Biaya Operasional Rukun Tetangga (RT), Rukun Warga (RW)",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.05.01.0008, 5.1.02.05.01.0009, 5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1390,7 +1390,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "Qori/Pembaca Al-Qur'an dan/atau Pembaca Sari Tilawah",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1399,7 +1399,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "Instruktur Senam",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1408,7 +1408,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1417,7 +1417,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1426,7 +1426,7 @@
     "URAIAN BARANG": "Belanja Jasa Front Office SLRT Kecamatan",
     "SPESIFIKASI": "Front Office Kecamatan",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1435,7 +1435,7 @@
     "URAIAN BARANG": "Belanja Jasa Back Office SLRT Kecamatan",
     "SPESIFIKASI": "Back Office Kecamatan",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0028",
     "KATEGORI": "SBU"
   },
@@ -1462,7 +1462,7 @@
     "URAIAN BARANG": "Biaya Operasional Lembaga Pemberdayaan Masyarakat",
     "SPESIFIKASI": "Kelurahan",
     "SATUAN": "Per Bulan",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.05.01.0011",
     "KATEGORI": "SBU"
   },
@@ -1471,7 +1471,7 @@
     "URAIAN BARANG": "Jasa Tenaga Pelayanan Umum",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0020",
     "KATEGORI": "SBU"
   },
@@ -1480,7 +1480,7 @@
     "URAIAN BARANG": "Tim Ahli Cagar Budaya Kota Banjarmasin",
     "SPESIFIKASI": "Tim Ahli Cagar Budaya / Budayawan / Arsitek  / Arkeolog / Sejarawan / Sejarah dan Budaya",
     "SATUAN": "Orang / Jam",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1498,7 +1498,7 @@
     "URAIAN BARANG": "Belanja Jasa Tenaga Ahli Sidang Tipiring",
     "SPESIFIKASI": "Jaksa/Panitera/Aparat hukum lainnya penunjang sidang yustisi",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 800,
+    "HARGA SATUAN 2025": "800.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1507,7 +1507,7 @@
     "URAIAN BARANG": "Koordinator Pertandingan",
     "SPESIFIKASI": "NaN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1516,7 +1516,7 @@
     "URAIAN BARANG": "Pelatih Olahraga",
     "SPESIFIKASI": "NaN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1525,7 +1525,7 @@
     "URAIAN BARANG": "Asisten Pelatih Olahraga",
     "SPESIFIKASI": "NaN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1534,7 +1534,7 @@
     "URAIAN BARANG": "Belanja Jasa Tenaga Surveyor",
     "SPESIFIKASI": "Jasa Surveyor",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1543,7 +1543,7 @@
     "URAIAN BARANG": "Penerjemah Bahasa Isyarat",
     "SPESIFIKASI": "NaN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1561,7 +1561,7 @@
     "URAIAN BARANG": "Belanja Jasa Tenaga Ahli Sidang Tipiring",
     "SPESIFIKASI": "Staff Pengadilan",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1570,7 +1570,7 @@
     "URAIAN BARANG": "Belanja Jasa Tenaga Ahli Sidang Tipiring",
     "SPESIFIKASI": "Staff Kejaksaan",
     "SATUAN": "Orang / Kegiatan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1579,7 +1579,7 @@
     "URAIAN BARANG": "Jasa Tenaga Ahli",
     "SPESIFIKASI": "Jasa Tenaga Ahli Profesional",
     "SATUAN": "Orang / Jam",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0029",
     "KATEGORI": "SBU"
   },
@@ -1705,7 +1705,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kebersihan",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.02.01.0030",
     "KATEGORI": "SBU"
   },
@@ -1714,7 +1714,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kebersihan",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.02.01.0030",
     "KATEGORI": "SBU"
   },
@@ -1723,7 +1723,7 @@
     "URAIAN BARANG": "Jasa Tenaga Kebersihan",
     "SPESIFIKASI": "Kegiatan Insidentil",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 50,
+    "HARGA SATUAN 2025": "50.000",
     "KODE REKENING": "5.1.02.02.01.0030",
     "KATEGORI": "SBU"
   },
@@ -1831,7 +1831,7 @@
     "URAIAN BARANG": "Jasa Petugas Penunjang Kegiatan Kantor/ Lapangan melalui Perjanjian/Perikatan",
     "SPESIFIKASI": "Petugas Keamanan Pasar",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0031",
     "KATEGORI": "SBU"
   },
@@ -1930,7 +1930,7 @@
     "URAIAN BARANG": "Jasa Juri Perlombaan/Pertandingan",
     "SPESIFIKASI": "Tingkat Kota",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1939,7 +1939,7 @@
     "URAIAN BARANG": "Jasa Juri Perlombaan/Pertandingan",
     "SPESIFIKASI": "Juri/Asisten Juri",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1948,7 +1948,7 @@
     "URAIAN BARANG": "Jasa Penilai/Juri Lomba",
     "SPESIFIKASI": "Wasit/Juri Perlombaan",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1957,7 +1957,7 @@
     "URAIAN BARANG": "Jasa Penunjang /Pendukung Perlombaan/Pertandingan",
     "SPESIFIKASI": "Juri Seleksi",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1966,7 +1966,7 @@
     "URAIAN BARANG": "Jasa Penunjang /Pendukung Perlombaan/Pertandingan",
     "SPESIFIKASI": "Petugas Pertandingan/Pendukung Lainnya",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1975,7 +1975,7 @@
     "URAIAN BARANG": "Jasa Penunjang /Pendukung Perlombaan/Pertandingan",
     "SPESIFIKASI": "Linesman / Hakim Garis",
     "SATUAN": "Orang / Kedatangan",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.02.01.0037",
     "KATEGORI": "SBU"
   },
@@ -1984,7 +1984,7 @@
     "URAIAN BARANG": "Jasa make up",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0038",
     "KATEGORI": "SBU"
   },
@@ -2083,7 +2083,7 @@
     "URAIAN BARANG": "Biaya Pemasangan Sambungan Baru PLN",
     "SPESIFIKASI": "Daya Tersambung 900 VA",
     "SATUAN": "Paket",
-    "HARGA SATUAN 2025": 843,
+    "HARGA SATUAN 2025": "843.000",
     "KODE REKENING": "5.1.02.02.01.0041, 5.2.03.01.01.0005, 5.2.03.01.01.0001",
     "KATEGORI": "SBU"
   },
@@ -2101,7 +2101,7 @@
     "URAIAN BARANG": "Biaya Pemasangan Sambungan Baru PLN",
     "SPESIFIKASI": "Diatas 2.200 VA s.d. 100 kVA",
     "SATUAN": "VA",
-    "HARGA SATUAN 2025": 969,
+    "HARGA SATUAN 2025": "969",
     "KODE REKENING": "5.1.02.02.01.0041, 5.2.03.01.01.0001",
     "KATEGORI": "SBU"
   },
@@ -2110,7 +2110,7 @@
     "URAIAN BARANG": "Jasa Instalasi",
     "SPESIFIKASI": "",
     "SATUAN": "Titik",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0041",
     "KATEGORI": "SBU"
   },
@@ -2128,7 +2128,7 @@
     "URAIAN BARANG": "Jasa Transaksi Keuangan",
     "SPESIFIKASI": "Slip Setoran / Transfer",
     "SATUAN": "Lembar",
-    "HARGA SATUAN 2025": 35,
+    "HARGA SATUAN 2025": "35.000",
     "KODE REKENING": "5.1.02.02.01.0042",
     "KATEGORI": "SBU"
   },
@@ -2137,7 +2137,7 @@
     "URAIAN BARANG": "Jasa Alih Media Arsip",
     "SPESIFIKASI": "Ukuran A4 s.d A3 < 50.000 lembar",
     "SATUAN": "Lembar",
-    "HARGA SATUAN 2025": 7.8,
+    "HARGA SATUAN 2025": "7.800",
     "KODE REKENING": "5.1.02.02.01.0045",
     "KATEGORI": "SBU"
   },
@@ -2146,7 +2146,7 @@
     "URAIAN BARANG": "Jasa Alih Media Arsip",
     "SPESIFIKASI": "Ukuran A2",
     "SATUAN": "Lembar",
-    "HARGA SATUAN 2025": 60,
+    "HARGA SATUAN 2025": "60.000",
     "KODE REKENING": "5.1.02.02.01.0045",
     "KATEGORI": "SBU"
   },
@@ -2182,7 +2182,7 @@
     "URAIAN BARANG": "Jasa pengolahan limbah",
     "SPESIFIKASI": "Limbah laboratorium padat",
     "SATUAN": "Kg",
-    "HARGA SATUAN 2025": 70,
+    "HARGA SATUAN 2025": "70.000",
     "KODE REKENING": "5.1.02.02.01.0051",
     "KATEGORI": "SBU"
   },
@@ -2191,7 +2191,7 @@
     "URAIAN BARANG": "Jasa pengolahan limbah",
     "SPESIFIKASI": "Limbah laboratorium cair",
     "SATUAN": "Liter",
-    "HARGA SATUAN 2025": 70,
+    "HARGA SATUAN 2025": "70.000",
     "KODE REKENING": "5.1.02.02.01.0051",
     "KATEGORI": "SBU"
   },
@@ -2200,7 +2200,7 @@
     "URAIAN BARANG": "Jasa pengolahan limbah",
     "SPESIFIKASI": "Kemasan B3",
     "SATUAN": "Kg",
-    "HARGA SATUAN 2025": 70,
+    "HARGA SATUAN 2025": "70.000",
     "KODE REKENING": "5.1.02.02.01.0051",
     "KATEGORI": "SBU"
   },
@@ -2209,7 +2209,7 @@
     "URAIAN BARANG": "Jasa Pembasmian dan Pengendalian Hama",
     "SPESIFIKASI": "Fumigasi",
     "SATUAN": "M3",
-    "HARGA SATUAN 2025": 85,
+    "HARGA SATUAN 2025": "85.000",
     "KODE REKENING": "5.1.02.02.01.0052",
     "KATEGORI": "SBU"
   },
@@ -2218,7 +2218,7 @@
     "URAIAN BARANG": "Jasa Pembasmian dan Pengendalian Hama",
     "SPESIFIKASI": "Termite/Pest Control",
     "SATUAN": "M2",
-    "HARGA SATUAN 2025": 90,
+    "HARGA SATUAN 2025": "90.000",
     "KODE REKENING": "5.1.02.02.01.0052",
     "KATEGORI": "SBU"
   },
@@ -2272,7 +2272,7 @@
     "URAIAN BARANG": "Tagihan Telepon",
     "SPESIFIKASI": "Pemko/Kantor/Rumjab/Rumdin/Asrama",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 750,
+    "HARGA SATUAN 2025": "750.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2281,7 +2281,7 @@
     "URAIAN BARANG": "Tagihan Telepon",
     "SPESIFIKASI": "Pemko/Kantor/Rumjab/Rumdin/Asrama",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2290,7 +2290,7 @@
     "URAIAN BARANG": "Tagihan Telepon",
     "SPESIFIKASI": "Pemko/Kantor/Rumjab/Rumdin/Asrama",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2299,7 +2299,7 @@
     "URAIAN BARANG": "Tagihan Telepon",
     "SPESIFIKASI": "Pemko/Kantor/Rumjab/Rumdin/Asrama",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2308,7 +2308,7 @@
     "URAIAN BARANG": "Tagihan Telepon + Internet (Belum Termasuk PPN)",
     "SPESIFIKASI": "Bandwidth Up to 20 MBPs",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2326,7 +2326,7 @@
     "URAIAN BARANG": "Tagihan Telepon",
     "SPESIFIKASI": "Biaya Administrasi",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 3,
+    "HARGA SATUAN 2025": "3.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2335,7 +2335,7 @@
     "URAIAN BARANG": "Tagihan Telepon + Internet (Belum Termasuk PPN)",
     "SPESIFIKASI": "Bandwidth 10 Mbps",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 460,
+    "HARGA SATUAN 2025": "460.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2344,7 +2344,7 @@
     "URAIAN BARANG": "Tagihan Telepon + Internet (Belum Termasuk PPN)",
     "SPESIFIKASI": "Bandwidth Up to 30 Mbps",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 690,
+    "HARGA SATUAN 2025": "690.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2353,7 +2353,7 @@
     "URAIAN BARANG": "Tagihan Telepon + Internet (Belum Termasuk PPN)",
     "SPESIFIKASI": "Bandwidth Up to 40 Mbps",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 790,
+    "HARGA SATUAN 2025": "790.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2362,7 +2362,7 @@
     "URAIAN BARANG": "Tagihan Telepon + Internet (Belum Termasuk PPN)",
     "SPESIFIKASI": "Bandwidth Up to 50 Mbps",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 940,
+    "HARGA SATUAN 2025": "940.000",
     "KODE REKENING": "5.1.02.02.01.0059",
     "KATEGORI": "SBU"
   },
@@ -2371,7 +2371,7 @@
     "URAIAN BARANG": "Tagihan air",
     "SPESIFIKASI": "Instansi pemerintah",
     "SATUAN": "M3",
-    "HARGA SATUAN 2025": 10.725,
+    "HARGA SATUAN 2025": "10.725",
     "KODE REKENING": "5.1.02.02.01.0060",
     "KATEGORI": "SBU"
   },
@@ -2380,7 +2380,7 @@
     "URAIAN BARANG": "Tagihan air",
     "SPESIFIKASI": "Biaya Administrasi",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 3,
+    "HARGA SATUAN 2025": "3.000",
     "KODE REKENING": "5.1.02.02.01.0060",
     "KATEGORI": "SBU"
   },
@@ -2389,7 +2389,7 @@
     "URAIAN BARANG": "Tagihan air",
     "SPESIFIKASI": "Biaya Abondemen",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 15,
+    "HARGA SATUAN 2025": "15.000",
     "KODE REKENING": "5.1.02.02.01.0060",
     "KATEGORI": "SBU"
   },
@@ -2398,7 +2398,7 @@
     "URAIAN BARANG": "Tagihan listrik",
     "SPESIFIKASI": "Beban Listrik P-1/TR 5.505-\n200 kVA",
     "SATUAN": "Kwh",
-    "HARGA SATUAN 2025": 1.6,
+    "HARGA SATUAN 2025": "1.600",
     "KODE REKENING": "5.1.02.02.01.0061",
     "KATEGORI": "SBU"
   },
@@ -2407,7 +2407,7 @@
     "URAIAN BARANG": "Tagihan listrik",
     "SPESIFIKASI": "Biaya Administrasi",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 3,
+    "HARGA SATUAN 2025": "3.000",
     "KODE REKENING": "5.1.02.02.01.0061",
     "KATEGORI": "SBU"
   },
@@ -2425,7 +2425,7 @@
     "URAIAN BARANG": "Tagihan Listrik",
     "SPESIFIKASI": "Biaya Administrasi",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 10,
+    "HARGA SATUAN 2025": "10.000",
     "KODE REKENING": "5.1.02.02.01.0061",
     "KATEGORI": "SBU"
   },
@@ -2434,7 +2434,7 @@
     "URAIAN BARANG": "Surat Kabar / Koran",
     "SPESIFIKASI": "Koran \nRadar Banjar",
     "SATUAN": "Eksemplar",
-    "HARGA SATUAN 2025": 5,
+    "HARGA SATUAN 2025": "5.000",
     "KODE REKENING": "5.1.02.02.01.0062",
     "KATEGORI": "SBU"
   },
@@ -2443,7 +2443,7 @@
     "URAIAN BARANG": "Surat Kabar / Koran",
     "SPESIFIKASI": "Koran \nBanjarmasin Post",
     "SATUAN": "Eksemplar",
-    "HARGA SATUAN 2025": 3,
+    "HARGA SATUAN 2025": "3.000",
     "KODE REKENING": "5.1.02.02.01.0062",
     "KATEGORI": "SBU"
   },
@@ -2452,7 +2452,7 @@
     "URAIAN BARANG": "Koran / Surat Kabar",
     "SPESIFIKASI": "Kalimantan Post",
     "SATUAN": "Eksemplar",
-    "HARGA SATUAN 2025": 5.5,
+    "HARGA SATUAN 2025": "5.500",
     "KODE REKENING": "5.1.02.02.01.0062",
     "KATEGORI": "SBU"
   },
@@ -2461,7 +2461,7 @@
     "URAIAN BARANG": "Biaya Langganan Jurnal/Surat Kabar/Majalah",
     "SPESIFIKASI": "-",
     "SATUAN": "Eksemplar",
-    "HARGA SATUAN 2025": 6,
+    "HARGA SATUAN 2025": "6.000",
     "KODE REKENING": "5.1.02.02.01.0062",
     "KATEGORI": "SBU"
   },
@@ -2470,7 +2470,7 @@
     "URAIAN BARANG": "Biaya Langganan Jurnal/Surat Kabar/Majalah",
     "SPESIFIKASI": "Tabloid",
     "SATUAN": "Eksemplar",
-    "HARGA SATUAN 2025": 66.5,
+    "HARGA SATUAN 2025": "66.500",
     "KODE REKENING": "5.1.02.02.01.0062",
     "KATEGORI": "SBU"
   },
@@ -2479,7 +2479,7 @@
     "URAIAN BARANG": "Biaya TV Berlangganan Pada SKPD Layanan Publik",
     "SPESIFIKASI": "Primavision",
     "SATUAN": "Bulan",
-    "HARGA SATUAN 2025": 63,
+    "HARGA SATUAN 2025": "63.000",
     "KODE REKENING": "5.1.02.02.01.0063",
     "KATEGORI": "SBU"
   },
@@ -2524,7 +2524,7 @@
     "URAIAN BARANG": "Biaya Registrasi",
     "SPESIFIKASI": "Jasa Pemeriksaan Kesehatan Laboratorium Pekerja Kebersihan TPA Sampah Basirih",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.01.0066",
     "KATEGORI": "SBU"
   },
@@ -2560,7 +2560,7 @@
     "URAIAN BARANG": "Beban Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3",
     "SPESIFIKASI": "-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 35,
+    "HARGA SATUAN 2025": "35.000",
     "KODE REKENING": "5.1.02.02.02.0003",
     "KATEGORI": "SBU"
   },
@@ -2569,7 +2569,7 @@
     "URAIAN BARANG": "Beban Bantuan Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3",
     "SPESIFIKASI": "Bantuan Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3 (Pemda)",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 2.8,
+    "HARGA SATUAN 2025": "2.800",
     "KODE REKENING": "5.1.02.02.02.0003",
     "KATEGORI": "SBU"
   },
@@ -2578,7 +2578,7 @@
     "URAIAN BARANG": "Beban Bantuan Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3",
     "SPESIFIKASI": "Bantuan Iuran Jaminan Kesehatan Bagi Peserta PBPU dan BP Kelas 3 (Mandiri Aktif)",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 2.8,
+    "HARGA SATUAN 2025": "2.800",
     "KODE REKENING": "5.1.02.02.02.0004",
     "KATEGORI": "SBU"
   },
@@ -2587,7 +2587,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kesehatan - Non ASN",
     "SPESIFIKASI": "Gaji/Honor UMK Kebawah",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 140,
+    "HARGA SATUAN 2025": "140.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2596,7 +2596,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kesehatan - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas UMK s.d 4.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 160,
+    "HARGA SATUAN 2025": "160.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2605,7 +2605,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kesehatan - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 4.000.000 s.d 5.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2614,7 +2614,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kesehatan - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 5.000.000 s.d 6.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 240,
+    "HARGA SATUAN 2025": "240.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2623,7 +2623,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kesehatan - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 6.000.000 s.d 7.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 280,
+    "HARGA SATUAN 2025": "280.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2632,7 +2632,7 @@
     "URAIAN BARANG": "Iuran JKN/KIS",
     "SPESIFIKASI": "Besaran Gaji 10.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 400,
+    "HARGA SATUAN 2025": "400.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2641,7 +2641,7 @@
     "URAIAN BARANG": "Iuran JKN/KIS",
     "SPESIFIKASI": "Besaran Gaji 3.347.500",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 135,
+    "HARGA SATUAN 2025": "135.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2650,7 +2650,7 @@
     "URAIAN BARANG": "Iuran JKN/KIS",
     "SPESIFIKASI": "Besaran Gaji UMP",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 125,
+    "HARGA SATUAN 2025": "125.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2659,7 +2659,7 @@
     "URAIAN BARANG": "Iuran JKN/KIS",
     "SPESIFIKASI": "Besaran Gaji UMP",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 130,
+    "HARGA SATUAN 2025": "130.000",
     "KODE REKENING": "5.1.02.02.02.0005",
     "KATEGORI": "SBU"
   },
@@ -2668,7 +2668,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja - Non ASN",
     "SPESIFIKASI": "Gaji/Honor UMK Kebawah",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 8.4,
+    "HARGA SATUAN 2025": "8.400",
     "KODE REKENING": "5.1.02.02.02.0006, 5.1.02.05.01.0008, 5.1.02.05.01.0009",
     "KATEGORI": "SBU"
   },
@@ -2677,7 +2677,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas UMK s.d 4.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 9.6,
+    "HARGA SATUAN 2025": "9.600",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2686,7 +2686,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 4.000.000 s.d 5.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 12,
+    "HARGA SATUAN 2025": "12.000",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2695,7 +2695,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 5.000.000 s.d 6.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 14.4,
+    "HARGA SATUAN 2025": "14.400",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2704,7 +2704,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 6.000.000 s.d 7.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 16.8,
+    "HARGA SATUAN 2025": "16.800",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2713,7 +2713,7 @@
     "URAIAN BARANG": "Asuransi Jaminan Sosial BPJS Ketenagakerjaan peserta pelatihan",
     "SPESIFIKASI": "Pemagangan",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 18.6,
+    "HARGA SATUAN 2025": "18.600",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2722,7 +2722,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 10 juta",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 24,
+    "HARGA SATUAN 2025": "24.000",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2731,7 +2731,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 3.347.500,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 8.034,
+    "HARGA SATUAN 2025": "8.034",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2740,7 +2740,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.832.500,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 6.798,
+    "HARGA SATUAN 2025": "6.798",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2749,7 +2749,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.750.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 6.6,
+    "HARGA SATUAN 2025": "6.600",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2758,7 +2758,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.564.700,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 6.156,
+    "HARGA SATUAN 2025": "6.156",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2767,7 +2767,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.490.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 5.976,
+    "HARGA SATUAN 2025": "5.976",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2776,7 +2776,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.150.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 5.15,
+    "HARGA SATUAN 2025": "5.150",
     "KODE REKENING": "5.1.02.02.02.0006",
     "KATEGORI": "SBU"
   },
@@ -2785,7 +2785,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian - Non ASN",
     "SPESIFIKASI": "Gaji/Honor UMK Kebawah",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 10.5,
+    "HARGA SATUAN 2025": "10.500",
     "KODE REKENING": "5.1.02.02.02.0007, 5.1.02.05.01.0008, 5.1.02.05.01.0009",
     "KATEGORI": "SBU"
   },
@@ -2794,7 +2794,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas UMK s.d 4.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 12,
+    "HARGA SATUAN 2025": "12.000",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2803,7 +2803,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 4.000.000 s.d 5.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 15,
+    "HARGA SATUAN 2025": "15.000",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2812,7 +2812,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 5.000.000 s.d 6.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 18,
+    "HARGA SATUAN 2025": "18.000",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2821,7 +2821,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian - Non ASN",
     "SPESIFIKASI": "Gaji/Honor Diatas 6.000.000 s.d 7.000.000",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 21,
+    "HARGA SATUAN 2025": "21.000",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2830,7 +2830,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 10 juta",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 30,
+    "HARGA SATUAN 2025": "30.000",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2839,7 +2839,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 3.347.500,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 10.043,
+    "HARGA SATUAN 2025": "10.043",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2848,7 +2848,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.832.500,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 8.498,
+    "HARGA SATUAN 2025": "8.498",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2857,7 +2857,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.750.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 8.25,
+    "HARGA SATUAN 2025": "8.250",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2866,7 +2866,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.564.700,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 7.694,
+    "HARGA SATUAN 2025": "7.694",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2875,7 +2875,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.490.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 7.47,
+    "HARGA SATUAN 2025": "7.470",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -2884,7 +2884,7 @@
     "URAIAN BARANG": "Iuran Jaminan Kematian bagi Non ASN",
     "SPESIFIKASI": "Besaran Gaji 2.150.000,-",
     "SATUAN": "Orang / Bulan",
-    "HARGA SATUAN 2025": 6.45,
+    "HARGA SATUAN 2025": "6.450",
     "KODE REKENING": "5.1.02.02.02.0007",
     "KATEGORI": "SBU"
   },
@@ -3532,7 +3532,7 @@
     "URAIAN BARANG": "Biaya Pemeliharaan Sarana Kantor",
     "SPESIFIKASI": "Mesin Pompa (A)",
     "SATUAN": "Unit / Tahun",
-    "HARGA SATUAN 2025": 880,
+    "HARGA SATUAN 2025": "880.000",
     "KODE REKENING": "5.1.02.03.02.0023",
     "KATEGORI": "SBU"
   },
@@ -3541,7 +3541,7 @@
     "URAIAN BARANG": "Biaya Pemeliharaan Sarana Kantor",
     "SPESIFIKASI": "Mesin Pompa (B)",
     "SATUAN": "Unit / Tahun",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.03.02.0023",
     "KATEGORI": "SBU"
   },
@@ -3694,7 +3694,7 @@
     "URAIAN BARANG": "Biaya Pemeliharaan Sarana Kantor",
     "SPESIFIKASI": "AC Split",
     "SATUAN": "Unit / Tahun",
-    "HARGA SATUAN 2025": 610,
+    "HARGA SATUAN 2025": "610.000",
     "KODE REKENING": "5.1.02.03.02.0121",
     "KATEGORI": "SBU"
   },
@@ -3703,7 +3703,7 @@
     "URAIAN BARANG": "Pemeliharaan Kulkas (Lemari Pendingin)",
     "SPESIFIKASI": "-",
     "SATUAN": "Unit / Tahun",
-    "HARGA SATUAN 2025": 500,
+    "HARGA SATUAN 2025": "500.000",
     "KODE REKENING": "5.1.02.03.02.0121",
     "KATEGORI": "SBU"
   },
@@ -3712,7 +3712,7 @@
     "URAIAN BARANG": "Biaya Pemeliharaan Sarana Kantor",
     "SPESIFIKASI": "Printer",
     "SATUAN": "Unit / Tahun",
-    "HARGA SATUAN 2025": 690,
+    "HARGA SATUAN 2025": "690.000",
     "KODE REKENING": "5.1.02.03.02.0409",
     "KATEGORI": "SBU"
   },
@@ -3721,7 +3721,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "ACEH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 360,
+    "HARGA SATUAN 2025": "360.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3730,7 +3730,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "SUMATERA UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3739,7 +3739,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "RIAU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3748,7 +3748,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "KEPULAUAN RlAU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3757,7 +3757,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "KEPULAUAN RlAU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 110,
+    "HARGA SATUAN 2025": "110.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3766,7 +3766,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "SUMATERA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3775,7 +3775,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "SUMATERA SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3784,7 +3784,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "LAMPUNG",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3793,7 +3793,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "BANTEN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3802,7 +3802,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3811,7 +3811,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 130,
+    "HARGA SATUAN 2025": "130.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3820,7 +3820,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3829,7 +3829,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 160,
+    "HARGA SATUAN 2025": "160.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3838,7 +3838,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3847,7 +3847,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 110,
+    "HARGA SATUAN 2025": "110.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3856,7 +3856,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "D.l YOGYAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 420,
+    "HARGA SATUAN 2025": "420.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3865,7 +3865,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "D.l YOGYAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 130,
+    "HARGA SATUAN 2025": "130.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3874,7 +3874,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 410,
+    "HARGA SATUAN 2025": "410.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3883,7 +3883,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 120,
+    "HARGA SATUAN 2025": "120.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3892,7 +3892,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 480,
+    "HARGA SATUAN 2025": "480.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3901,7 +3901,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 140,
+    "HARGA SATUAN 2025": "140.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3910,7 +3910,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "NUSA TENGGARA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 440,
+    "HARGA SATUAN 2025": "440.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3919,7 +3919,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "KALIMANTAN BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3928,7 +3928,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "KALIMANTAN TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 360,
+    "HARGA SATUAN 2025": "360.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3937,7 +3937,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "KALIMANTAN SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 110,
+    "HARGA SATUAN 2025": "110.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3946,7 +3946,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "KALIMANTAN TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3955,7 +3955,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "KALIMANTAN UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3964,7 +3964,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3973,7 +3973,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Diklat)",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 130,
+    "HARGA SATUAN 2025": "130.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3982,7 +3982,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "MALUKU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -3991,7 +3991,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Negeri (Luar Kota)",
     "SPESIFIKASI": "PAPUA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4126,7 +4126,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "ACEH",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 123,
+    "HARGA SATUAN 2025": "123.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4135,7 +4135,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "SUMATERA UTARA",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 232,
+    "HARGA SATUAN 2025": "232.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4144,7 +4144,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KEPULAUAN RlAU",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 137,
+    "HARGA SATUAN 2025": "137.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4153,7 +4153,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "SUMATERA BARAT",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 190,
+    "HARGA SATUAN 2025": "190.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4162,7 +4162,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "SUMATERA SELATAN",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 128,
+    "HARGA SATUAN 2025": "128.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4171,7 +4171,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "LAMPUNG",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 167,
+    "HARGA SATUAN 2025": "167.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4180,7 +4180,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "BANTEN",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 446,
+    "HARGA SATUAN 2025": "446.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4189,7 +4189,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 166,
+    "HARGA SATUAN 2025": "166.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4198,7 +4198,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 256,
+    "HARGA SATUAN 2025": "256.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4207,7 +4207,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4216,7 +4216,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "D.l YOGYAKARTA",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 118,
+    "HARGA SATUAN 2025": "118.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4225,7 +4225,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 194,
+    "HARGA SATUAN 2025": "194.000",
     "KODE REKENING": "5.1.01.01.01.0001, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4234,7 +4234,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 159,
+    "HARGA SATUAN 2025": "159.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4243,7 +4243,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "NUSA TENGGARA BARAT",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 231,
+    "HARGA SATUAN 2025": "231.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4252,7 +4252,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KALIMANTAN BARAT",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 135,
+    "HARGA SATUAN 2025": "135.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4261,7 +4261,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KALIMANTAN TENGAH",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 111,
+    "HARGA SATUAN 2025": "111.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4270,7 +4270,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KALIMANTAN SELATAN",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.04.01.0001, 5.1.02.04.01.0004, 5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -4279,7 +4279,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KALIMANTAN TIMUR",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 450,
+    "HARGA SATUAN 2025": "450.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4288,7 +4288,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "KALIMANTAN UTARA",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 102,
+    "HARGA SATUAN 2025": "102.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4297,7 +4297,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 145,
+    "HARGA SATUAN 2025": "145.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4306,7 +4306,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "MALUKU",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 240,
+    "HARGA SATUAN 2025": "240.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4315,7 +4315,7 @@
     "URAIAN BARANG": "Satuan Biaya Taksi/Transport Bandara",
     "SPESIFIKASI": "PAPUA",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 431,
+    "HARGA SATUAN 2025": "431.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4324,7 +4324,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Balangan",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 230,
+    "HARGA SATUAN 2025": "230.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4333,7 +4333,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Banjar",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 170,
+    "HARGA SATUAN 2025": "170.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4342,7 +4342,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Barito Kuala",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4351,7 +4351,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Hulu Sungai Selatan",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4360,7 +4360,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Hulu Sungai Tengah",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 212,
+    "HARGA SATUAN 2025": "212.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4369,7 +4369,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Hulu Sungai Utara",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 218,
+    "HARGA SATUAN 2025": "218.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4378,7 +4378,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Kota Baru",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 290,
+    "HARGA SATUAN 2025": "290.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4387,7 +4387,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Tabalong",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 234,
+    "HARGA SATUAN 2025": "234.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4396,7 +4396,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Tanah Bumbu",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4405,7 +4405,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Tanah Laut",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4414,7 +4414,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kabupaten Tapin",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 189,
+    "HARGA SATUAN 2025": "189.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4423,7 +4423,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Kota Banjarbaru",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 225,
+    "HARGA SATUAN 2025": "225.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4432,7 +4432,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kota Bekasi",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 284,
+    "HARGA SATUAN 2025": "284.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4441,7 +4441,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kabupaten Bekasi",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 284,
+    "HARGA SATUAN 2025": "284.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4450,7 +4450,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kabupaten Bogor",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4459,7 +4459,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kota Bogor",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4468,7 +4468,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kota Depok",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 275,
+    "HARGA SATUAN 2025": "275.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4477,7 +4477,7 @@
     "URAIAN BARANG": "Transportasi Darat dari DKI Jakarta ke Kabupaten/ Kota Sekitar (One Way)",
     "SPESIFIKASI": "Kepulauan Seribu",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 428,
+    "HARGA SATUAN 2025": "428.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4504,7 +4504,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "ACEH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 556,
+    "HARGA SATUAN 2025": "556.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4531,7 +4531,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "SUMATERA UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4540,7 +4540,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "SUMATERA UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4567,7 +4567,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KEPULAUAN RlAU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 792,
+    "HARGA SATUAN 2025": "792.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4576,7 +4576,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KEPULAUAN RlAU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 792,
+    "HARGA SATUAN 2025": "792.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4603,7 +4603,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "SUMATERA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4612,7 +4612,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "SUMATERA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4639,7 +4639,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "SUMATERA SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 861,
+    "HARGA SATUAN 2025": "861.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4648,7 +4648,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "SUMATERA SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 861,
+    "HARGA SATUAN 2025": "861.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4675,7 +4675,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "LAMPUNG",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4684,7 +4684,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "LAMPUNG",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4711,7 +4711,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "BANTEN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 718,
+    "HARGA SATUAN 2025": "718.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4720,7 +4720,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "BANTEN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 718,
+    "HARGA SATUAN 2025": "718.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4756,7 +4756,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 570,
+    "HARGA SATUAN 2025": "570.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4765,7 +4765,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 570,
+    "HARGA SATUAN 2025": "570.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4792,7 +4792,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon III/ Golongan IV",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 992,
+    "HARGA SATUAN 2025": "992.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4801,7 +4801,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 730,
+    "HARGA SATUAN 2025": "730.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4810,7 +4810,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "DKI JAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 730,
+    "HARGA SATUAN 2025": "730.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4828,7 +4828,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon III/ Golongan IV",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 954,
+    "HARGA SATUAN 2025": "954.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4837,7 +4837,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4846,7 +4846,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4882,7 +4882,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "D.l YOGYAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 845,
+    "HARGA SATUAN 2025": "845.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4891,7 +4891,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "D.l YOGYAKARTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 845,
+    "HARGA SATUAN 2025": "845.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4918,7 +4918,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 664,
+    "HARGA SATUAN 2025": "664.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4927,7 +4927,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 664,
+    "HARGA SATUAN 2025": "664.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4954,7 +4954,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon III/ Golongan IV",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 990,
+    "HARGA SATUAN 2025": "990.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4963,7 +4963,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 910,
+    "HARGA SATUAN 2025": "910.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4972,7 +4972,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 910,
+    "HARGA SATUAN 2025": "910.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -4999,7 +4999,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "NUSA TENGGARA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5008,7 +5008,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "NUSA TENGGARA BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5035,7 +5035,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KALIMANTAN BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 538,
+    "HARGA SATUAN 2025": "538.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5044,7 +5044,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KALIMANTAN BARAT",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 538,
+    "HARGA SATUAN 2025": "538.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5071,7 +5071,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KALIMANTAN TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 659,
+    "HARGA SATUAN 2025": "659.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5080,7 +5080,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KALIMANTAN TENGAH",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 659,
+    "HARGA SATUAN 2025": "659.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5116,7 +5116,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KALIMANTAN SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 540,
+    "HARGA SATUAN 2025": "540.000",
     "KODE REKENING": "5.1.02.04.01.0001, 5.1.02.04.01.0004, 5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -5125,7 +5125,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KALIMANTAN SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 540,
+    "HARGA SATUAN 2025": "540.000",
     "KODE REKENING": "5.1.02.04.01.0001, 5.1.02.04.01.0004, 5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -5152,7 +5152,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KALIMANTAN TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5161,7 +5161,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KALIMANTAN TIMUR",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5188,7 +5188,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "KALIMANTAN UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5197,7 +5197,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "KALIMANTAN UTARA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5224,7 +5224,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 732,
+    "HARGA SATUAN 2025": "732.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5233,7 +5233,7 @@
     "URAIAN BARANG": "Biaya Penginapan Golongan I/II",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 732,
+    "HARGA SATUAN 2025": "732.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5251,7 +5251,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "MALUKU",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 667,
+    "HARGA SATUAN 2025": "667.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5269,7 +5269,7 @@
     "URAIAN BARANG": "Biaya Penginapan Pejabat Eselon IV/ Golongan III",
     "SPESIFIKASI": "PAPUA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 829,
+    "HARGA SATUAN 2025": "829.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5278,7 +5278,7 @@
     "URAIAN BARANG": "Uang Representasi Luar Kota",
     "SPESIFIKASI": "Pejabat Negara/Pejabat Daerah",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5287,7 +5287,7 @@
     "URAIAN BARANG": "Uang Representasi Luar Kota",
     "SPESIFIKASI": "Pejabat Eselon II",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5296,7 +5296,7 @@
     "URAIAN BARANG": "Uang Representasi Dalam Kota lebih Dari 8 (Delapan Jam)",
     "SPESIFIKASI": "Pejabat Eselon II",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5305,7 +5305,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Sumatera Utara",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5314,7 +5314,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kepulauan Riau",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 792,
+    "HARGA SATUAN 2025": "792.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5323,7 +5323,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Sumatera Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 650,
+    "HARGA SATUAN 2025": "650.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5332,7 +5332,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Sumatera Selatan",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 861,
+    "HARGA SATUAN 2025": "861.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5341,7 +5341,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Jawa Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 570,
+    "HARGA SATUAN 2025": "570.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5350,7 +5350,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "D.K.I. Jakarta",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 730,
+    "HARGA SATUAN 2025": "730.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5359,7 +5359,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Jawa Tengah",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 600,
+    "HARGA SATUAN 2025": "600.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5368,7 +5368,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "D.I. Yogyakarta",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 845,
+    "HARGA SATUAN 2025": "845.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5377,7 +5377,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Jawa Timur",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 664,
+    "HARGA SATUAN 2025": "664.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5386,7 +5386,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Bali",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 910,
+    "HARGA SATUAN 2025": "910.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5395,7 +5395,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Nusa Tenggara Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 580,
+    "HARGA SATUAN 2025": "580.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5404,7 +5404,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kalimantan Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 538,
+    "HARGA SATUAN 2025": "538.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5413,7 +5413,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kalimantan Tengah",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 659,
+    "HARGA SATUAN 2025": "659.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5422,7 +5422,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kalimantan Timur",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5431,7 +5431,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kalimantan Utara",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 804,
+    "HARGA SATUAN 2025": "804.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5440,7 +5440,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Sulawesi Selatan",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 732,
+    "HARGA SATUAN 2025": "732.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5449,7 +5449,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Sumatera Utara",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5458,7 +5458,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Kepulauan Riau",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5467,7 +5467,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Sumatera Selatan",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5476,7 +5476,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Jawa Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5485,7 +5485,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "D.K.I. Jakarta",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 530,
+    "HARGA SATUAN 2025": "530.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5494,7 +5494,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Jawa Tengah",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 370,
+    "HARGA SATUAN 2025": "370.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5503,7 +5503,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "D.I. Yogyakarta",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 420,
+    "HARGA SATUAN 2025": "420.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5512,7 +5512,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Jawa Timur",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 410,
+    "HARGA SATUAN 2025": "410.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5521,7 +5521,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Bali",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 480,
+    "HARGA SATUAN 2025": "480.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5530,7 +5530,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Nusa Tenggara Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 440,
+    "HARGA SATUAN 2025": "440.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5539,7 +5539,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Kalimantan Barat",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5548,7 +5548,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Kalimantan Tengah",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 360,
+    "HARGA SATUAN 2025": "360.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5557,7 +5557,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Kalimantan Timur",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5566,7 +5566,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Kalimantan Utara",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5575,7 +5575,7 @@
     "URAIAN BARANG": "Uang Harian Dinas Luar Daerah - Non ASN",
     "SPESIFIKASI": "Sulawesi Selatan",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 430,
+    "HARGA SATUAN 2025": "430.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5737,7 +5737,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Balangan",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 230,
+    "HARGA SATUAN 2025": "230.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5746,7 +5746,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Banjar",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 170,
+    "HARGA SATUAN 2025": "170.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5755,7 +5755,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Barito Kuala",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5764,7 +5764,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Hulu Sungai Selatan",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5773,7 +5773,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Hulu Sungai Tengah",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 212,
+    "HARGA SATUAN 2025": "212.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5782,7 +5782,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Hulu Sungai Utara",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 218,
+    "HARGA SATUAN 2025": "218.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5791,7 +5791,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Kota Baru",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 290,
+    "HARGA SATUAN 2025": "290.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5800,7 +5800,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Tabalong",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 234,
+    "HARGA SATUAN 2025": "234.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5809,7 +5809,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Tanah Bumbu",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 300,
+    "HARGA SATUAN 2025": "300.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5818,7 +5818,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Tanah Laut",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 200,
+    "HARGA SATUAN 2025": "200.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5827,7 +5827,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kab. Tapin",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 189,
+    "HARGA SATUAN 2025": "189.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5836,7 +5836,7 @@
     "URAIAN BARANG": "Transportasi Darat Kabupaten/Kota Dalam Provinsi Yang Sama (One Way) - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Kota Banjarbaru",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 225,
+    "HARGA SATUAN 2025": "225.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5845,7 +5845,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Bandung - Kab. Bandung",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 183,
+    "HARGA SATUAN 2025": "183.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5854,7 +5854,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Bandung - Kab. Bekasi",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 265,
+    "HARGA SATUAN 2025": "265.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5863,7 +5863,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Bandung - Kab. Majalengka",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 235,
+    "HARGA SATUAN 2025": "235.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5872,7 +5872,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Bandung - Kab. Sukabumi",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 245,
+    "HARGA SATUAN 2025": "245.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5881,7 +5881,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Yogyakarta - Kab. Gunung Kidul",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5890,7 +5890,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Yogyakarta - Kab. Kulon Progo",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5899,7 +5899,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Surabaya - Kab. Banyuwangi",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 285,
+    "HARGA SATUAN 2025": "285.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5908,7 +5908,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Surabaya - Kab. Malang",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 228,
+    "HARGA SATUAN 2025": "228.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5917,7 +5917,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Surabaya - Kab. Sidoarjo",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 240,
+    "HARGA SATUAN 2025": "240.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5926,7 +5926,7 @@
     "URAIAN BARANG": "Transportasi Darat Dari Ibukota Provinsi Ke Kabupaten/Kota Dalam Provinsi Yang Sama (One Way)",
     "SPESIFIKASI": "Surabaya - Kota Malang",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 228,
+    "HARGA SATUAN 2025": "228.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5935,7 +5935,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - ASN",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5944,7 +5944,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - ASN",
     "SPESIFIKASI": "Kota Banjarbaru",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0002",
     "KATEGORI": "SBU"
   },
@@ -5953,7 +5953,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - ASN",
     "SPESIFIKASI": "Kabupaten Barito Kuala",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0003",
     "KATEGORI": "SBU"
   },
@@ -5962,7 +5962,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - ASN",
     "SPESIFIKASI": "Kabupaten Banjar",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -5971,7 +5971,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - ASN",
     "SPESIFIKASI": "Kabupaten Tanah Laut",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -5980,7 +5980,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - Non ASN",
     "SPESIFIKASI": "",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 380,
+    "HARGA SATUAN 2025": "380.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -5998,7 +5998,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - Non ASN",
     "SPESIFIKASI": "Kabupaten Barito Kuala",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0003",
     "KATEGORI": "SBU"
   },
@@ -6007,7 +6007,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - Non ASN",
     "SPESIFIKASI": "Kabupaten Banjar",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6016,7 +6016,7 @@
     "URAIAN BARANG": "Uang Harian dalam Provinsi Kalimantan Selatan - Non ASN",
     "SPESIFIKASI": "Kabupaten Tanah Laut",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 266,
+    "HARGA SATUAN 2025": "266.000",
     "KODE REKENING": "5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -6043,7 +6043,7 @@
     "URAIAN BARANG": "Biaya Transportasi Luar Daerah",
     "SPESIFIKASI": "Banjarmasin - Palangkaraya",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6052,7 +6052,7 @@
     "URAIAN BARANG": "Biaya Transportasi Luar Daerah - Non ASN",
     "SPESIFIKASI": "Banjarmasin - Palangkaraya",
     "SATUAN": "Orang / Kali",
-    "HARGA SATUAN 2025": 350,
+    "HARGA SATUAN 2025": "350.000",
     "KODE REKENING": "5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6142,7 +6142,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "SUMATERA UTARA",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 900,
+    "HARGA SATUAN 2025": "900.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6151,7 +6151,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "JAWA BARAT",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 845,
+    "HARGA SATUAN 2025": "845.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6169,7 +6169,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "JAWA TENGAH",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 875,
+    "HARGA SATUAN 2025": "875.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6178,7 +6178,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "D.I  YOGYAKARTA",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 799,
+    "HARGA SATUAN 2025": "799.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6187,7 +6187,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "JAWA TIMUR",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 875,
+    "HARGA SATUAN 2025": "875.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6196,7 +6196,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "BALI",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 790,
+    "HARGA SATUAN 2025": "790.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6205,7 +6205,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "KALIMANTAN BARAT",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 800,
+    "HARGA SATUAN 2025": "800.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6241,7 +6241,7 @@
     "URAIAN BARANG": "Sewa Kendaraan Roda 4 Dalam Kota Tempat Tujuan Perjalanan Dinas Luar Daerah Keluar Provinsi untuk Wali Kota, Wakil Wali Kota, Pimpinan DPRD dan Sekretaris Daerah",
     "SPESIFIKASI": "SULAWESI SELATAN",
     "SATUAN": "Per Hari",
-    "HARGA SATUAN 2025": 700,
+    "HARGA SATUAN 2025": "700.000",
     "KODE REKENING": "5.1.02.02.04.0043, 5.1.02.04.01.0001",
     "KATEGORI": "SBU"
   },
@@ -6268,7 +6268,7 @@
     "URAIAN BARANG": "Biaya Penginapan - Non ASN",
     "SPESIFIKASI": "Kalimantan Selatan",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 540,
+    "HARGA SATUAN 2025": "540.000",
     "KODE REKENING": "5.1.02.04.01.0001, 5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6304,7 +6304,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Kota",
     "SPESIFIKASI": "Perjalanan Dinas Dalam Kota Lebih Dari 8 Jam",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 150,
+    "HARGA SATUAN 2025": "150.000",
     "KODE REKENING": "5.1.02.04.01.0003",
     "KATEGORI": "SBU"
   },
@@ -6313,7 +6313,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Kota",
     "SPESIFIKASI": "Uang Transportasi Perjalanan Dinas Dalam Kota (A)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 100,
+    "HARGA SATUAN 2025": "100.000",
     "KODE REKENING": "5.1.02.04.01.0001, 5.1.02.04.01.0003, 5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6322,7 +6322,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Kota",
     "SPESIFIKASI": "Uang Transportasi Perjalanan Dinas Dalam Kota (B)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.04.01.0003, 5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6331,7 +6331,7 @@
     "URAIAN BARANG": "Uang Harian Perjalanan Dinas Dalam Kota",
     "SPESIFIKASI": "Uang Transportasi Perjalanan Dinas Dalam Kota (C)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 50,
+    "HARGA SATUAN 2025": "50.000",
     "KODE REKENING": "5.1.02.04.01.0003, 5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6340,7 +6340,7 @@
     "URAIAN BARANG": "Uang Representasi Perjalanan Dinas Dalam Kota",
     "SPESIFIKASI": "Esselon II",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 75,
+    "HARGA SATUAN 2025": "75.000",
     "KODE REKENING": "5.1.02.04.01.0003",
     "KATEGORI": "SBU"
   },
@@ -6349,7 +6349,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor Setingkat Kepala Daerah/Eselon I",
     "SPESIFIKASI": "HALFDAY",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 264,
+    "HARGA SATUAN 2025": "264.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6358,7 +6358,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor Setingkat Kepala Daerah/Eselon I",
     "SPESIFIKASI": "FULLBOARD",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 930,
+    "HARGA SATUAN 2025": "930.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6367,7 +6367,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor Setingkat Eselon II",
     "SPESIFIKASI": "HALFDAY",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 194,
+    "HARGA SATUAN 2025": "194.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6376,7 +6376,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor Setingkat Eselon II",
     "SPESIFIKASI": "FULLDAY",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 295,
+    "HARGA SATUAN 2025": "295.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6385,7 +6385,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor Setingkat Eselon II",
     "SPESIFIKASI": "FULLBOARD",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 734,
+    "HARGA SATUAN 2025": "734.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6394,7 +6394,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - FULLBOARD",
     "SPESIFIKASI": "Bintang II",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 517,
+    "HARGA SATUAN 2025": "517.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6403,7 +6403,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - FULLBOARD",
     "SPESIFIKASI": "Bintang III",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 615,
+    "HARGA SATUAN 2025": "615.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6412,7 +6412,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - FULLDAY",
     "SPESIFIKASI": "Bintang II",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 220,
+    "HARGA SATUAN 2025": "220.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6421,7 +6421,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - FULLDAY",
     "SPESIFIKASI": "Bintang III",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 272,
+    "HARGA SATUAN 2025": "272.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6430,7 +6430,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - FULLDAY",
     "SPESIFIKASI": "Bintang IV",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 388,
+    "HARGA SATUAN 2025": "388.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6439,7 +6439,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - HALFDAY",
     "SPESIFIKASI": "Bintang II",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 194,
+    "HARGA SATUAN 2025": "194.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6448,7 +6448,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - HALFDAY",
     "SPESIFIKASI": "Bintang III",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 240,
+    "HARGA SATUAN 2025": "240.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6457,7 +6457,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor - HALFDAY",
     "SPESIFIKASI": "Bintang IV",
     "SATUAN": "Orang / Paket",
-    "HARGA SATUAN 2025": 250,
+    "HARGA SATUAN 2025": "250.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6466,7 +6466,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor",
     "SPESIFIKASI": "Fullday",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 120,
+    "HARGA SATUAN 2025": "120.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6475,7 +6475,7 @@
     "URAIAN BARANG": "Paket Kegiatan Rapat Atau Pertemuan Di Luar Kantor",
     "SPESIFIKASI": "Halfday",
     "SATUAN": "Orang",
-    "HARGA SATUAN 2025": 95,
+    "HARGA SATUAN 2025": "95.000",
     "KODE REKENING": "5.1.02.04.01.0004",
     "KATEGORI": "SBU"
   },
@@ -6493,7 +6493,7 @@
     "URAIAN BARANG": "Uang Harian Kegiatan Rapat Atau Pertemuan Di Luar Kantor",
     "SPESIFIKASI": "FULLBOARD/RAPAT PERTEMUAN LEBIH DARI 8 JAM DI DALAM KOTA",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 130,
+    "HARGA SATUAN 2025": "130.000",
     "KODE REKENING": "5.1.02.04.01.0003, 5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -6502,7 +6502,7 @@
     "URAIAN BARANG": "Paket Meeting Luar Kota",
     "SPESIFIKASI": "Paket Meeting Luar Kota - Jakarta ( Fullday)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 433,
+    "HARGA SATUAN 2025": "433.000",
     "KODE REKENING": "5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -6511,7 +6511,7 @@
     "URAIAN BARANG": "Paket Meeting Luar Kota",
     "SPESIFIKASI": "Paket Meeting Luar Kota - Jakarta (Halfday)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 354,
+    "HARGA SATUAN 2025": "354.000",
     "KODE REKENING": "5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
@@ -6520,7 +6520,7 @@
     "URAIAN BARANG": "Paket Meeting Luar Kota",
     "SPESIFIKASI": "Paket Meeting Luar Kota - Jatim (Fullday)",
     "SATUAN": "Orang / Hari",
-    "HARGA SATUAN 2025": 395,
+    "HARGA SATUAN 2025": "395.000",
     "KODE REKENING": "5.1.02.04.01.0005",
     "KATEGORI": "SBU"
   },
