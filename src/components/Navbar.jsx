@@ -15,7 +15,11 @@ const Navbar = ({ children }) => {
               searchInputHandler("");
             }}
             className={({ isActive }) =>
-              `font-bold text-lg ${isActive ? "underline" : ""}`
+              `font-bold text-lg px-4 py-2 ${
+                isActive
+                  ? "underline bg-yellow-200 rounded-lg text-slate-900 "
+                  : ""
+              }`
             }
           >
             SSH
@@ -26,7 +30,11 @@ const Navbar = ({ children }) => {
               searchInputHandler("");
             }}
             className={({ isActive }) =>
-              `font-bold text-lg ${isActive ? "underline" : ""}`
+              `font-bold text-lg px-4 py-2 ${
+                isActive
+                  ? "underline bg-yellow-200 rounded-lg text-slate-900 "
+                  : ""
+              }`
             }
           >
             SBU
