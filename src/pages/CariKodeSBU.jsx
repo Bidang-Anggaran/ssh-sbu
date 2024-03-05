@@ -10,7 +10,7 @@ const CariKodeBelanja = () => {
             DATA UMUM SBU
           </h1>
         </div>
-        <section className="shadow-xl rounded-lg overflow-hidden">
+        <section className="shadow-xl rounded-lg ">
 
           <SearchBar kodeMinW={'min-w-48'} />
           <SBUList />

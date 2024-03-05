@@ -1,4 +1,3 @@
-
 import { useKode } from "../context/BelanjaContext";
 import { NavLink } from "react-router-dom";
 
@@ -16,9 +15,7 @@ const Navbar = ({ children }) => {
             }}
             className={({ isActive }) =>
               `font-bold text-lg px-4 py-2 ${
-                isActive
-                  ? "underline bg-yellow-200 rounded-lg text-slate-900 "
-                  : ""
+                isActive ? "bg-yellow-200 rounded-lg text-slate-900 " : ""
               }`
             }
           >
@@ -31,9 +28,7 @@ const Navbar = ({ children }) => {
             }}
             className={({ isActive }) =>
               `font-bold text-lg px-4 py-2 ${
-                isActive
-                  ? "underline bg-yellow-200 rounded-lg text-slate-900 "
-                  : ""
+                isActive ? "bg-yellow-200 rounded-lg text-slate-900 " : ""
               }`
             }
           >
