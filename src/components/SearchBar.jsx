@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { useKode } from "../context/BelanjaContext";
 
-const SearchBar = ({kodeMinW}) => {
+const SearchBar = ({kodeMinW, satHargaMaxW, kodeRekeningMaxW}) => {
   const searchRef = useRef(null);
   const { searchInputHandler } = useKode();
   return (
@@ -43,15 +43,12 @@ const SearchBar = ({kodeMinW}) => {
           <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
             Satuan
           </h2>
-          <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
+          <h2 className={`flex-[2] px-2 font-bold text-sm py-2 border-r-2 border-slate-300 ${satHargaMaxW}`}>
             Satuan Harga 2025
           </h2>
-          <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
+          <h2 className={`flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300 ${kodeRekeningMaxW}`}>
             Kode Rekening
           </h2>
-          {/* <h2 className="flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
-            TKDN
-          </h2> */}
           <h2 className="flex-[1] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
             Kategori
           </h2>

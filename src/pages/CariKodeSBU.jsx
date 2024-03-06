@@ -12,7 +12,7 @@ const CariKodeBelanja = () => {
         </div>
         <section className="shadow-xl rounded-lg ">
 
-          <SearchBar kodeMinW={'min-w-48'} />
+          <SearchBar kodeMinW={'min-w-48'} kodeRekeningMaxW={''} satHargaMaxW={''}/>
           <SBUList />
         </section>
       </main>

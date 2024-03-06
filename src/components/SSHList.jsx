@@ -41,10 +41,10 @@ const SSHList = () => {
           <p className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300">
             {e.SATUAN == "" ? "-" : e.SATUAN}
           </p>
-          <p className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300">
+          <p className="p-2 flex-[2] text-xs sm:text-sm border-r-2 max-w-32 border-slate-300">
             {e["HARGA SATUAN 2025"] == "" ? "-" : e["HARGA SATUAN 2025"]}
           </p>
-          <p className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300">
+          <p className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300 max-w-44 break-words">
             {e["KODE REKENING"] == "" ? "-" : e["KODE REKENING"]}
           </p>
 

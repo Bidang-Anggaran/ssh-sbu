@@ -10,7 +10,11 @@ const CariKodeBelanja = () => {
         </h1>
       </div>
       <section className="shadow-xl rounded-lg">
-        <SearchBar kodeMinW={"min-w-32 sm:min-w-[8.5rem]"} />
+        <SearchBar
+          kodeMinW={"min-w-32 sm:min-w-[8.5rem]"}
+          satHargaMaxW={"max-w-32"}
+          kodeRekeningMaxW={"max-w-44"}
+        />
         <SSHList />
       </section>
     </main>
