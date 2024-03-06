@@ -57,7 +57,7 @@ const SBUList = () => {
                 : e["KODE REKENING"]}
             </p>
 
-            <p className="p-2 flex-[1] text-xs md:text-sm border-r-2 border-slate-300">
+            <p className="p-2 flex-[1] text-xs md:text-sm border-r-2 border-slate-300 max-w-28">
               {e.KATEGORI == "" ? "Keterangan Belum Ditambah" : e.KATEGORI}
             </p>
             {/* <div className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300">

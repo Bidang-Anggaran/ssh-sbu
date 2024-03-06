@@ -49,7 +49,7 @@ const SearchBar = ({kodeMinW, satHargaMaxW, kodeRekeningMaxW}) => {
           <h2 className={`flex-[2] px-2 font-bold text-sm py-2  border-r-2 border-slate-300 ${kodeRekeningMaxW}`}>
             Kode Rekening
           </h2>
-          <h2 className="flex-[1] px-2 font-bold text-sm py-2  border-r-2 border-slate-300">
+          <h2 className="flex-[1] px-2 font-bold text-sm py-2  border-r-2 border-slate-300 max-w-28">
             Kategori
           </h2>
         </div>
