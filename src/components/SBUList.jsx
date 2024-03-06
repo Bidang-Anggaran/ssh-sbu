@@ -25,8 +25,8 @@ const SBUList = () => {
             Tidak ada data yang ditemukan.
           </div>
         ) : null}
-        {currentData.map((e) => (
-          <div key={crypto.randomUUID()} className="flex">
+        {currentData.map((e, i) => (
+          <div key={`${e["KODE KELOMPOK BARANG"]}${i}`} className="flex">
             <div className="flex-[2] min-w-48 max-w-48 border-x-2 border-slate-300">
               <h2 className="font-bold text-xs md:text-sm p-2">
                 {e["KODE KELOMPOK BARANG"]}
@@ -34,31 +34,23 @@ const SBUList = () => {
             </div>
 
             <p className="p-2 flex-[2] text-xs md:text-sm border-r-2 border-slate-300">
-              {e["URAIAN BARANG"] == ""
-                ? "Keterangan Belum Ditambah"
-                : e["URAIAN BARANG"]}
+              {e["URAIAN BARANG"] == "" ? "-" : e["URAIAN BARANG"]}
             </p>
             <p className="p-2 flex-[2] text-xs md:text-sm border-r-2 border-slate-300">
-              {e.SPESIFIKASI == ""
-                ? "Keterangan Belum Ditambah"
-                : e.SPESIFIKASI}
+              {e.SPESIFIKASI == "" ? "-" : e.SPESIFIKASI}
             </p>
             <p className="p-2 flex-[2] text-xs md:text-sm border-r-2 border-slate-300">
-              {e.SATUAN == "" ? "Keterangan Belum Ditambah" : e.SATUAN}
+              {e.SATUAN == "" ? "-" : e.SATUAN}
             </p>
             <p className="p-2 flex-[2] text-xs md:text-sm border-r-2 border-slate-300">
-              {e["HARGA SATUAN 2025"] == ""
-                ? "Keterangan Belum Ditambah"
-                : e["HARGA SATUAN 2025"]}
+              {e["HARGA SATUAN 2025"] == "" ? "-" : e["HARGA SATUAN 2025"]}
             </p>
             <p className="p-2 flex-[2] text-xs md:text-sm border-r-2 border-slate-300">
-              {e["KODE REKENING"] == ""
-                ? "Keterangan Belum Ditambah"
-                : e["KODE REKENING"]}
+              {e["KODE REKENING"] == "" ? "-" : e["KODE REKENING"]}
             </p>
 
             <p className="p-2 flex-[1] text-xs md:text-sm border-r-2 border-slate-300 max-w-28">
-              {e.KATEGORI == "" ? "Keterangan Belum Ditambah" : e.KATEGORI}
+              {e.KATEGORI == "" ? "-" : e.KATEGORI}
             </p>
             {/* <div className="p-2 flex-[2] text-xs sm:text-sm border-r-2 border-slate-300">
             <p>
