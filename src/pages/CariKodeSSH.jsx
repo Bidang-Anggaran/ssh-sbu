@@ -1,7 +1,7 @@
-import SSHList from "../components/SSHList";
+import SSHList from "../components/ItemList/SSHList";
 import SearchBar from "../components/SearchBar";
 
-const CariKodeBelanja = () => {
+const CariKodeSSH = () => {
   return (
     <main className="container lg:max-w-4xl xl:max-w-6xl 2xl:max-w-screen-2xl mx-auto text-slate-800 min-w-[412px]">
       <div className="mx-auto flex flex-col w-max">
@@ -17,8 +17,8 @@ const CariKodeBelanja = () => {
         />
         <SSHList />
       </section>
-    </main>
+    </main> 
   );
 };
 
-export default CariKodeBelanja;
+export default CariKodeSSH;

@@ -3,37 +3,34 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = ({ children }) => {
   const { searchInputHandler } = useKode();
+
+  const tabLink = (title, route) => {
+    return (
+      <NavLink
+        to={route}
+        onClick={() => {
+          searchInputHandler("");
+        }}
+        className={({ isActive }) =>
+          `font-bold text-lg px-4 py-2 ${
+            isActive ? "bg-yellow-200 rounded-lg text-slate-900 " : ""
+          }`
+        }
+      >
+        {title}
+      </NavLink>
+    );
+  };
+
   return (
     <>
       <header className="bg-slate-900 backdrop-blur-sm w-full py-4 px-8 shadow-md flex justify-center">
-        {/* <div className="text-xl font-bold text-slate-200">LOGO</div> */}
         <div className="flex space-x-8 text-slate-200">
-          <NavLink
-            to={"/"}
-            onClick={() => {
-              searchInputHandler("");
-            }}
-            className={({ isActive }) =>
-              `font-bold text-lg px-4 py-2 ${
-                isActive ? "bg-yellow-200 rounded-lg text-slate-900 " : ""
-              }`
-            }
-          >
-            SSH
-          </NavLink>
-          <NavLink
-            to={"/SBU"}
-            onClick={() => {
-              searchInputHandler("");
-            }}
-            className={({ isActive }) =>
-              `font-bold text-lg px-4 py-2 ${
-                isActive ? "bg-yellow-200 rounded-lg text-slate-900 " : ""
-              }`
-            }
-          >
-            SBU
-          </NavLink>
+
+          {tabLink("SSH", "/")}
+          {tabLink("SBU", "/SBU")}
+          {tabLink("HSPK", "/HSPK")}
+          {tabLink("ASB", "/ASB")}
         </div>
       </header>
       {children}
