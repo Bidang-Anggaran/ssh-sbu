@@ -1,18 +1,18 @@
-import SBU from "../json/SBU.json";
-import { useKode } from "../context/BelanjaContext";
-import Pagination from "./Pagination";
+import ASB from "../../json/ASB.json";
+import { useKode } from "../../context/BelanjaContext";
+import Pagination from "../Pagination";
 
-const SBUList = () => {
+const ASBList = () => {
   const { startIndex, endIndex, searchInput } = useKode();
 
   const filteredData =
     searchInput !== ""
-      ? SBU.filter((item) =>
+      ? ASB.filter((item) =>
           Object.values(item).some((value) =>
             `${value}`.toLowerCase().includes(searchInput.toLowerCase())
           )
         )
-      : SBU;
+      : ASB;
 
   const currentData = filteredData.slice(startIndex, endIndex);
 
@@ -66,4 +66,4 @@ const SBUList = () => {
   );
 };
 
-export default SBUList;
+export default ASBList;

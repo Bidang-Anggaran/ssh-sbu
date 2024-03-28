@@ -1,6 +1,6 @@
-import SSH from "../json/SSH.json";
-import { useKode } from "../context/BelanjaContext";
-import Pagination from "./Pagination";
+import SSH from "../../json/SSH.json";
+import { useKode } from "../../context/BelanjaContext";
+import Pagination from "../Pagination";
 
 const SSHList = () => {
   const { startIndex, endIndex, searchInput } = useKode();

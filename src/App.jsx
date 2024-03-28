@@ -1,17 +1,20 @@
 import { Routes } from "react-router-dom";
-import KodeProvider from "./context/BelanjaContext";
-import CariKodeBelanja from "./pages/CariKodeSSH";
 import { Route } from "react-router-dom";
-import CariKodeAsset from "./pages/CariKodeSBU";
 import Navbar from "./components/Navbar";
+import KodeProvider from "./context/BelanjaContext";
+import CariKodeSSH from "./pages/CariKodeSSH";
+import CariKodeSBU from "./pages/CariKodeSBU";
+import CariKodeHSPK from "./pages/CariKodeHSPK";
+import CariKodeASB from "./pages/CariKodeASB";
 function App() {
   return (
     <KodeProvider>
       <Navbar>
         <Routes>
-          <Route path="/" element={<CariKodeBelanja />} />
-          <Route path="/SBU" element={<CariKodeAsset />} />
-          {/* <div className="h-24"></div> */}
+          <Route path="/" element={<CariKodeSSH />} />
+          <Route path="/SBU" element={<CariKodeSBU />} />
+          <Route path="/HSPK" element={<CariKodeHSPK />} />
+          <Route path="/ASB" element={<CariKodeASB />} />
         </Routes>
       </Navbar>
     </KodeProvider>
