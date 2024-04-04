@@ -1422,9 +1422,9 @@
     "KATEGORI": "SBU"
   },
   {
-    "KODE KELOMPOK BARANG": "8.1.02.02.01.0028",
-    "URAIAN BARANG": "Biaya Operasional Lembaga Pemberdayaan Masyarakat",
-    "SPESIFIKASI": "Kelurahan",
+    "KODE KELOMPOK BARANG": "8.1.02.05.01.0011",
+    "URAIAN BARANG": "Uang yang Diberikan kepada Lembaga Pemberdayaan Masyarakat",
+    "SPESIFIKASI": "Biaya Operasional Lembaga Pemberdayaan Masyarakat",
     "SATUAN": "Per Bulan",
     "HARGA SATUAN 2025": "650,000",
     "KODE REKENING": "5.1.02.05.01.0011",
